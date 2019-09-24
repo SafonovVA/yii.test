@@ -14,6 +14,5 @@ use yii\widgets\LinkPager;
     </li>
 <?php endforeach;?>
 </ul>
-//qw
 
 <?= LinkPager::widget(['pagination' => $pagination]) ?>
